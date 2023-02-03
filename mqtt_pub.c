@@ -34,6 +34,7 @@ int main(int argc, char *argv[])
 
 	printf("update v2");
 	printf("develop1");
+	printf("merge comflict");
 	printf("develop2");
 
 	return 0;
