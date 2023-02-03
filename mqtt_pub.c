@@ -33,6 +33,8 @@ int main(int argc, char *argv[])
 	printf("tran quoc trong in here\n");
 
 	printf("update v2");
+	printf("develop1");
+	printf("develop2");
 
 	return 0;
 }
