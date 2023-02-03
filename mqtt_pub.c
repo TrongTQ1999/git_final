@@ -40,6 +40,7 @@ int main(int argc, char *argv[])
 	printf("develop1");
 	printf("merge comflict");
 	printf("develop2");
+	printf("develop2");
 
 	return 0;
 }
